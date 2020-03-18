@@ -1,0 +1,7 @@
+admin@datanima.net
+
+who do we send SSL file to?
+hamletuc@gmail.com
+
+
+DCV = Domain Control Validation

@@ -1,0 +1,1 @@
+SSL para página segura https://, es un certificado que se acaba al transcurrir 1 año.
